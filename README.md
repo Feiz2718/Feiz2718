@@ -1,5 +1,5 @@
 ## Manuel Vargas 👋
-Hola mi nombre es Manuel Vargas, tengo 15 años y ya
+Hola mi nombre es Manuel Vargas, tengo 15 años y mas de mi
 <!--
 **Feiz2718/Feiz2718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
